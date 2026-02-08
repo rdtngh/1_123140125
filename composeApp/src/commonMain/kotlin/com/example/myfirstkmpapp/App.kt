@@ -41,8 +41,8 @@ fun App() {
                     horizontalAlignment = Alignment.CenterHorizontally,
                 ) {
                     Image(painterResource(Res.drawable.compose_multiplatform), null)
-                    Text("Hello, Muhammad Naufal Fikri Akmal!")
-                    Text("NIM: 123140132")
+                    Text("Hello, Raditya Alrasyid Nugroho")
+                    Text("NIM: 123140125")
                     Text("Platform: $platformName")
 
                 }
